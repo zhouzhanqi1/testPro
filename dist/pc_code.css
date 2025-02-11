@@ -1,0 +1,44 @@
+.oauth {
+    background: #fff !important;
+    /* width: 180px!important; */
+}
+
+.oauth .qr-code {
+    /* margin-top: 50px; */
+	margin-top: 0;
+    width: 180px!important;
+    /* background: rgba(1,1,1,0.1) */
+}
+
+.oauth .qr-code .qr-title {
+    height: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #222222;
+    line-height: 25px;
+    margin: 24px auto 12px;
+	font-weight: 600;
+    display: none;
+}
+
+.oauth .qr-refresh-text {
+    margin-top: 10px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #222222;
+    line-height: 24px;
+    display: none;
+}
+
+.oauth .qr-refresh-text img {
+    width: 20px;
+    height: 20px;
+    margin-right: 9px;
+}
+
+.oauth .qr-code-error {
+    width: 97px !important;
+    height: 97px !important;
+    margin: 23px auto 20px;
+}
